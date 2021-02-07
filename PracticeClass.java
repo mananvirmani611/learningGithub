@@ -8,6 +8,6 @@ public class PracticeClass {
 Scanner sc = new Scanner (System.in);
 	
 	System.out.println("new manan");
-	}
+System.out.println("new line added");
 
 }
